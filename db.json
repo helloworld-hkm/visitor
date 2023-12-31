@@ -1,3 +1,12 @@
 {
-    "count": 1
+  "artikel": [
+    {
+      "id": 1,
+      "title": "hello"
+      
+    }
+  ],
+  "users": {
+    "name": "environthink"
   }
+}
